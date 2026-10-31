@@ -12,7 +12,7 @@ The project focuses on transforming transactional sales data into clear, actiona
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/dashboard-overview.png)
+![Sales Dashboard](images/Sales%20Dashboard.png)
 
 ## Key Features
 
